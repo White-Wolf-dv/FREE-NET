@@ -1,4 +1,25 @@
 # FREE-NET
 
 
-https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/44.gif
+
+
+#### MCI
+
+```
+https://raw.githubusercontent.com/White-Wolf-dv/FREE-NET/refs/heads/main/FREE-NET.txt
+```
+
+---
+
+
+> copy Link
+> 
+> Add in subscription groups
+
+<br>
+<br>
+<p align="center">
+
+<img title="" src="https://github.com/White-Wolf-dv/White-Wolf-dv/blob/main/Gif/44.gif" alt="">
+
+</p>
