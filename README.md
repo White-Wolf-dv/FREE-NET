@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/White-Wolf-dv/FREE-NET/refs/heads/main/FREE-NE
 > copy Link
 > 
 > Add in subscription groups
+>
+> update : 2024\12\15
 
 <br>
 <br>
